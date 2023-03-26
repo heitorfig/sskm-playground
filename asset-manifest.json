@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/sskm-playground/static/js/main.ddd893eb.js",
+    "static/media/logo.svg": "/sskm-playground/static/media/logo.30444c7c5249110f2bd918a3b75cf337.svg",
+    "index.html": "/sskm-playground/index.html",
+    "main.ddd893eb.js.map": "/sskm-playground/static/js/main.ddd893eb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ddd893eb.js"
+  ]
+}
