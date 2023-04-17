@@ -16,7 +16,7 @@ const App = () => {
                 <Typography variant="body2">DE12 7869 1001 1234 20</Typography>
                 <Typography variant="body2">Heitor Correa Figueiredo</Typography>
               </Box>
-              <Typography variant="h6" fontWeight="bold" color="success.main">2.020,00 €</Typography>
+              <Typography variant="h6" fontWeight="bold" color="success.main">1.960,00 €</Typography>
             </Stack>
           </CardContent>
         </Card>
