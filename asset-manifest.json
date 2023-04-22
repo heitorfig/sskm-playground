@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/sskm-playground/static/js/main.aaf92ea0.js",
+    "main.js": "/sskm-playground/static/js/main.0d1f94fa.js",
     "static/media/logo.svg": "/sskm-playground/static/media/logo.30444c7c5249110f2bd918a3b75cf337.svg",
     "index.html": "/sskm-playground/index.html",
-    "main.aaf92ea0.js.map": "/sskm-playground/static/js/main.aaf92ea0.js.map"
+    "main.0d1f94fa.js.map": "/sskm-playground/static/js/main.0d1f94fa.js.map"
   },
   "entrypoints": [
-    "static/js/main.aaf92ea0.js"
+    "static/js/main.0d1f94fa.js"
   ]
 }
