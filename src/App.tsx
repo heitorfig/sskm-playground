@@ -16,7 +16,7 @@ const getVariation = () => {
 }
 
 const App = () => {
-  const cashkonto = 1700;
+  const cashkonto = 1685;
   const formattedCashkonto = cashkonto.toLocaleString('de-DE', { style: 'currency', currency: 'EUR' });
 
   const depot = 1100;
