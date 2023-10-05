@@ -16,10 +16,10 @@ const getVariation = () => {
 }
 
 const App = () => {
-  const cashkonto = 2025;
+  const cashkonto = 5500;
   const formattedCashkonto = cashkonto.toLocaleString('de-DE', { style: 'currency', currency: 'EUR' });
 
-  const depot = 1100;
+  const depot = 1250;
   const variation = getVariation() * depot;
   const depotColor = variation > 0 ? 'success.main' : 'error.main';
   const depotArrow = variation > 0 ? '▲' : '▼';
